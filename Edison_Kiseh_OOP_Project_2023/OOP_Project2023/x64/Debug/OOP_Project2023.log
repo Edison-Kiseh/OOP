@@ -1,0 +1,18 @@
+﻿  CPU.cpp
+  Components.cpp
+  ComputerShop.cpp
+  GPU.cpp
+  HD.cpp
+  Invoice.cpp
+C:\Users\Edison\source\repos\C++\OOP_Project2023\OOP_Project2023\Invoice.cpp(159,86): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Edison\source\repos\C++\OOP_Project2023\OOP_Project2023\Invoice.cpp(192,30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Edison\source\repos\C++\OOP_Project2023\OOP_Project2023\Invoice.cpp(117,13): warning C4101: 'corporate': unreferenced local variable
+  MB.cpp
+  Memory.cpp
+  PS.cpp
+  menu.cpp
+C:\Users\Edison\source\repos\C++\OOP_Project2023\OOP_Project2023\menu.cpp(14,17): warning C4101: 'sysType': unreferenced local variable
+  role.cpp
+  Generating Code...
+C:\Users\Edison\source\repos\C++\OOP_Project2023\OOP_Project2023\ComputerShop.cpp(121): warning C4715: 'ComputerShop::searchCustomer': not all control paths return a value
+  OOP_Project2023.vcxproj -> C:\Users\Edison\source\repos\C++\OOP_Project2023\x64\Debug\OOP_Project2023.exe

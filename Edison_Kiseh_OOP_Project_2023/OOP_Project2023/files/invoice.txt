@@ -1,0 +1,82 @@
+
+Invoice for Harry
+-----------------------
+Case: 50
+CPU: 50
+GPU: 50
+HD: 50
+MB: 50
+Memory: 50
+PS: 50
+PS: 50
+The total is: 320
+Transaction done on the: 12/17/2023 at: 19:7:5
+
+------------------------
+
+
+Invoice for Harry
+-----------------------
+Case: 50
+The total is: 50
+Transaction done on the: 12/17/2023 at: 20:20:16
+
+------------------------
+
+Invoice for Harry
+-----------------------
+CPU: 50
+GPU: 50
+The total is: 100
+Transaction done on the: 12/17/2023 at: 20:36:0
+
+------------------------
+
+Invoice for Harry
+-----------------------
+CPU: 50
+CPU: 50
+CPU: 50
+CPU: 50
+CPU: 50
+CPU: 50
+CPU: 50
+CPU: 50
+CPU: 50
+MB: 50
+MB: 50
+MB: 50
+The total is: 600
+Transaction done on the: 12/17/2023 at: 20:39:54
+
+------------------------
+
+Invoice for Jim
+-----------------------
+CPU: 40
+CPU: 40
+The total is: 72
+Transaction done on the: 12/17/2023 at: 20:48:46
+
+------------------------
+
+Invoice for Polly
+-----------------------
+GPU: 50
+HD: 50
+The total is: 100
+Transaction done on the: 12/17/2023 at: 21:23:2
+
+------------------------
+
+Invoice for Edison Kiseh
+-----------------------
+GPU: 40
+HD: 40
+GPU: 40
+GPU: 40
+HD: 40
+The total is: 180
+Transaction done on the: 12/17/2023 at: 21:23:51
+
+------------------------

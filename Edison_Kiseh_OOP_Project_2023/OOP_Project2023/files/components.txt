@@ -1,0 +1,9 @@
+gpu	50	13
+cpu	50	0
+battery	50	0
+case	50	0
+mb	0	0
+monitor	50	0
+memory	50	12
+hd	50	9
+ps	50	14
